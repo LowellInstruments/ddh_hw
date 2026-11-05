@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="ble" />
+          <option value="pandas" />
+          <option value="matplotlib" />
+          <option value="toml" />
+          <option value="tomlkit" />
+          <option value="google-api-python-client" />
+          <option value="google-auth-oauthlib" />
+          <option value="tkinter" />
+          <option value="pyqt6-sip" />
+          <option value="psutil" />
+          <option value="setproctitle" />
+          <option value="redis" />
+          <option value="numpy" />
+          <option value="pyqtgraph" />
+          <option value="python-dateutil" />
+          <option value="GitPython" />
+          <option value="tzlocal" />
+          <option value="pyserial" />
+          <option value="pynmea2" />
+          <option value="gpiozero" />
+          <option value="requests" />
+          <option value="strip.pysondb" />
+          <option value="bleak" />
+          <option value="humanize" />
+          <option value="boto3" />
+          <option value="h5py" />
+          <option value="gsw" />
+          <option value="simplepyble" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PyQt6.QtCore.pyqtSignal.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
